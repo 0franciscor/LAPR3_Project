@@ -26,6 +26,9 @@
 #### Course Unit:
 * Laboratório/Projeto LAPR3
 
+#### Course Unit:
+* [C Component (US313,4,5,6 and US4xx](docs) 
+
 -----------------------------
 # Document division
 
